@@ -1,7 +1,7 @@
 
 public class Moto extends VeicoloMotore
 {
-	private String tMotore; //perché non posso fare un enum con i numeri???
+	private String tMotore;
 	
 	public Moto(String marca, String anno, String cilindrata, String tMotore)
 	{
